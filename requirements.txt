@@ -1,0 +1,7 @@
+#python 3.10.14
+pyautogen==0.2.27
+markdownify==0.12.1
+autogenstudio==0.0.56
+crewai[tools]
+langchain==0.1.17
+langchain-openai==0.1.6
