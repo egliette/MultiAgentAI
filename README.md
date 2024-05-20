@@ -2,6 +2,13 @@
 
 Source code used in "INTELLIGENT COLLABORATION - MULTI-AGENT LLM FOR DRIVING INNOVATION" webinar.
 
+# Google Colab links
+
+- AutoGen Quick Tutorial: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1AQVulyKLqi2d6v2HtcYgpE9pP7v8PXgu?usp=sharing)
+
+- crewAI Quick Tutorial: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1bwJEel6jf8hYGE66wmY9KEzmgZrKSy2x?usp=sharing)
+
+
 # Installation
 
 The current code runs with Python 3.10.14. Run the below command to install all necessary libraries:
